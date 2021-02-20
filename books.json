@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "price": 19.99,
+        "synopsis": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. Many literary critics consider The Great Gatsby to be one of the greatest novels ever written.",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Great_Gatsby_cover_1925_%281%29.jpg/440px-The_Great_Gatsby_cover_1925_%281%29.jpg",
+        "topics": [
+            {
+                "id": 1,
+                "name": "Tragedy"
+            }
+        ],
+        "author": {
+            "id": 1,
+            "first_name": "Scott",
+            "last_name": "Fitzgerald",
+            "date_of_birth": "1896-09-24",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/F_Scott_Fitzgerald_1921.jpg/440px-F_Scott_Fitzgerald_1921.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "title": "The Sound And The Fury",
+        "year": 1929,
+        "price": 30.0,
+        "synopsis": "The Sound and the Fury is a novel by the American author William Faulkner. It employs several narrative styles, including stream of consciousness.",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Sound_and_the_Fury_%281929_1st_ed_dust_jacket%29.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 4,
+            "first_name": "William",
+            "last_name": "Faulkner",
+            "date_of_birth": "1897-09-25",
+            "image_url": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcluHe7RI-PxX9RaBA_2W4RmHy0EN3cDjtQ4K3bcGztFxFfi3B_9fgWly-TR4X"
+        }
+    },
+    {
+        "id": 6,
+        "title": "The name of the rose",
+        "year": 1980,
+        "price": 14.0,
+        "synopsis": "The Name of the Rose is the 1980 debut novel by Italian author Umberto Eco. It is a historical ... In this novel, the lost \"rose\" could be seen as Aristotle's book on comedy (now forever lost).",
+        "cover_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNNDyJaOGAOXLRkor0oljBD54eFHK1uDGGzlb_WAAQ6YgG8Wgu",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 5,
+            "first_name": "Umberto",
+            "last_name": "Eco",
+            "date_of_birth": "1932-01-05",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "title": "In search of lost time",
+        "year": 1913,
+        "price": 35.0,
+        "synopsis": "In Search of Lost Time is a novel in seven volumes by Marcel Proust (1871–1922). It is his most prominent work, known both for its length and its theme of involuntary memory; the most famous example of this is the \"episode of the madeleine,\" which occurs early in the first volume.",
+        "cover_url": "https://m.media-amazon.com/images/I/41vnN9Cc5EL.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 7,
+            "first_name": "Marcel",
+            "last_name": "Proust",
+            "date_of_birth": "1871-07-10",
+            "image_url": "https://cdn.britannica.com/93/152993-050-57F2DCCE/Marcel-Proust.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "title": "To the lighthouse",
+        "year": 1927,
+        "price": 25.0,
+        "synopsis": "To the Lighthouse is a 1927 novel by Virginia Woolf. The novel centres on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920.",
+        "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346239665l/59716.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 8,
+            "first_name": "Virginia",
+            "last_name": "Woolf",
+            "date_of_birth": "1882-01-25",
+            "image_url": "https://t2.gstatic.com/images?q=tbn:ANd9GcSbH6fMpamySFKeF3MCwrFKFpfzUJlvgbgiFQscYCs_RbzIrkp9h0M5vvI0iu9a"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Nineteen eighty-four",
+        "year": 1984,
+        "price": 15.0,
+        "synopsis": "Nineteen Eighty-Four: A Novel, often published as 1984, is a dystopian social science fiction novel by English novelist George Orwell.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 9,
+            "first_name": "George",
+            "last_name": "Orwell",
+            "date_of_birth": "1903-06-25",
+            "image_url": "https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTMzNjI4OTQw/george-orwell-9429833-1-4022.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "title": "The hound of the baskervilles",
+        "year": 1902,
+        "price": 42.0,
+        "synopsis": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes.",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cover_%28Hound_of_Baskervilles%2C_1902%29.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 10,
+            "first_name": "Arthur Conan",
+            "last_name": "Doyle",
+            "date_of_birth": "1859-05-22",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Conan_doyle.jpg/1200px-Conan_doyle.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "title": "The little prince",
+        "year": 1943,
+        "price": 13.0,
+        "synopsis": "The Little Prince  is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/61Zi2jjgfIL.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 11,
+            "first_name": "Antoine",
+            "last_name": "de Saint-Exupéry",
+            "date_of_birth": "1900-06-26",
+            "image_url": "https://t2.gstatic.com/images?q=tbn:ANd9GcS6Ci_8oamrruJ21f5-qFG7uxg4hWzSgszvCA-5-X8W10S_6HnJnCkZmygYjdvE"
+        }
+    },
+    {
+        "id": 13,
+        "title": "The name of the rose",
+        "year": 1980,
+        "price": 14.0,
+        "synopsis": "The Name of the Rose is the 1980 debut novel by Italian author Umberto Eco. It is a historical ... In this novel, the lost \"rose\" could be seen as Aristotle's book on comedy (now forever lost),",
+        "cover_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNNDyJaOGAOXLRkor0oljBD54eFHK1uDGGzlb_WAAQ6YgG8Wgu",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 5,
+            "first_name": "Umberto",
+            "last_name": "Eco",
+            "date_of_birth": "1932-01-05",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "title": "The war of the worlds",
+        "year": 1898,
+        "price": 55.0,
+        "synopsis": "The War of the Worlds is a science fiction novel by English author H. G. Wells, first serialised in 1897 by Pearson's Magazine in the UK and by Cosmopolitan magazine in the US. The novel's first appearance in hardcover was in 1898 from publisher William Heinemann of London.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91d1CrEh8LL.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 12,
+            "first_name": "H.G.",
+            "last_name": "Wells",
+            "date_of_birth": "1866-09-21",
+            "image_url": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxMzI4NzAxOTY1/h-g-wells-39224-1-402.jpg"
+        }
+    },
+    {
+        "id": 15,
+        "title": "One hundred years of solitude",
+        "year": 1967,
+        "price": 60.0,
+        "synopsis": "One Hundred Years of Solitude is a landmark 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the (fictitious) town of Macondo.",
+        "cover_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCNw0uDvK-OgAAQAEQj7g9_g28foaSmg9XjwjdkOZAsevTTFTO",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 13,
+            "first_name": "Gabriel",
+            "last_name": "García Márquez",
+            "date_of_birth": "1927-03-06",
+            "image_url": "https://api.time.com/wp-content/uploads/2014/04/ap673104447282.jpg?w=600&quality=85"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Waiting for godot",
+        "year": 1953,
+        "price": 47.0,
+        "synopsis": "Waiting for godot is a play by Samuel Beckett in which two characters, Vladimir (Didi) and Estragon (Gogo), engage in a variety of discussions and encounters while awaiting Godot, who never arrives.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91PEukuQ-8L.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 14,
+            "first_name": "Samuel",
+            "last_name": "Backett",
+            "date_of_birth": "1906-04-13",
+            "image_url": "https://t2.gstatic.com/images?q=tbn:ANd9GcQYoYnMjdSCGR2opl-zXHNFbfGZotofzLTfcn-et4bpwFlb56hRZtIyRfuAMWgG"
+        }
+    },
+    {
+        "id": 17,
+        "title": "Gone with the wind",
+        "year": 1936,
+        "price": 70.0,
+        "synopsis": "Gone with the Wind is a novel by American writer Margaret Mitchell, first published in 1936. The story is set in Clayton County and Atlanta, both in Georgia, during the American Civil War and Reconstruction Era.",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Gone_with_the_Wind_cover.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 15,
+            "first_name": "Margaret",
+            "last_name": "Mitchell",
+            "date_of_birth": "1900-11-08",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Margaret_Mitchell_NYWTS.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "title": "The magic mountain",
+        "year": 1924,
+        "price": 40.0,
+        "synopsis": "The Magic Mountain is a novel by Thomas Mann, first published in German in November 1924. It is widely considered to be one of the most influential works of twentieth-century German literature.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81hJb7YycbL.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 6,
+            "first_name": "Thomas",
+            "last_name": "Mann",
+            "date_of_birth": "1875-06-06",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg"
+        }
+    },
+    {
+        "id": 18,
+        "title": "Friday",
+        "year": 1967,
+        "price": 54.0,
+        "synopsis": "Friday, or, The Other Island is a 1967 novel by French writer Michel Tournier. It retells Daniel Defoe's Robinson Crusoe.",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/41pz3fJe3sL._SY344_BO1,204,203,200_.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 16,
+            "first_name": "Michel",
+            "last_name": "Tournier",
+            "date_of_birth": "1924-12-19",
+            "image_url": "https://static01.nyt.com/images/2016/01/21/arts/21tournier-obit/21tournier-obit-superJumbo-v2.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Ulysses",
+        "year": 1922,
+        "price": 27.99,
+        "synopsis": "Ulysses is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal The Little Review from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922, Joyce's 40th birthday.",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg",
+        "topics": [
+            {
+                "id": 2,
+                "name": "Modernism"
+            }
+        ],
+        "author": {
+            "id": 2,
+            "first_name": "James",
+            "last_name": "Joyce",
+            "date_of_birth": "1882-02-02",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/440px-Revolutionary_Joyce_Better_Contrast.jpg"
+        }
+    }
+]
